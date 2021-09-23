@@ -1,0 +1,25 @@
+body {
+  background: #000000;
+  font-size:  12px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.product {
+  width: 200px;
+  height: 200px;
+}
+
+.product-image {
+  outline: 2px solid green;
+}
+
+.paragraph {
+  font-size:  16px;
+}
+
+.layout {
+  float: left;
+}
