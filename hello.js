@@ -1,3 +1,11 @@
+// let's force a second chunk
+
+that is garbage
+corrupting this js file
+
+MyFile#%xxo
+
+
 class MyFile {
 	constructor() {
 		console.log('works')
@@ -15,3 +23,5 @@ class MyFile {
 const file = new MyFile();
 file.create();
 file.delete()
+
+
